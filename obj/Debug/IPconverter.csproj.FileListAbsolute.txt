@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\IPconverter\bin\Debug\IPconverter.exe.config
+C:\Users\Пользователь\source\repos\IPconverter\bin\Debug\IPconverter.exe
+C:\Users\Пользователь\source\repos\IPconverter\bin\Debug\IPconverter.pdb
+C:\Users\Пользователь\source\repos\IPconverter\obj\Debug\IPconverter.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\IPconverter\obj\Debug\IPconverter.Form1.resources
+C:\Users\Пользователь\source\repos\IPconverter\obj\Debug\IPconverter.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\IPconverter\obj\Debug\IPconverter.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\IPconverter\obj\Debug\IPconverter.exe
+C:\Users\Пользователь\source\repos\IPconverter\obj\Debug\IPconverter.pdb
